@@ -1,0 +1,283 @@
+Bater Anglysh - English
+A = And
+A:
+Ab = App
+Ablikatjen = Application
+Actauly = Actually
+Agrii = Agree
+Ai = I
+Aiggt = Are 
+Aiwets = Awaits
+Alwes = Always
+Am = An
+Anglysh = English (The stupid languege)
+Animon = Anyone
+Ann = And
+API = API
+Aploud = Upload
+Att = At
+Attontin = Atention [Alternatively use "Attontjen"]
+Avaut = About
+Axes = Access
+Ayt = Aight
+B:
+Baf = Bad
+Bater = Better
+Bi = Be
+Bifure = Before
+Bitt = Bit
+Bof = Both
+Burv = Bruh
+Bux = Bug 
+Byldin = Building
+C:
+Campaie = Company (to be with someone)
+Ce = See
+Cerefool = Careful
+Chast = Just
+Chorre = Sure
+Chuld = Should [Should is also "Sould"]
+Citi = City
+Citis = Cities
+Civylsatjen = Civilization
+Ckanul = Channel
+Coll = Call
+Conuunixatjen = Comunication
+Coomats = Coments
+Corse = Course
+Criate = Create [Note: a Creator is not a "Criator", but a "Critor" xD]
+Culloboretor = Collaborator
+Cun = Can
+Curenlyd = Currently
+D:
+Dai = Day
+Daialekts = Dialects
+Dann = Done
+Dascurt = Discord
+Dawgloud = Download
+Deflupmat = Development
+Deskryptn = Descrption
+Dicchionarri = Dictionary
+Difit = Defeat
+Diifrenp = Different
+Diliyt = Delete ["Dilit" is also used]
+Diz = This [My dialect uses "Tiss"]
+Dos = Does (Question)
+Duin = Doing
+Dunt = Don't
+E:
+Ekspant = Expand
+Elluw = Allow
+Ennprye = Empire
+Entrnoot = Internet
+Envantjen = Invention
+Envant = Invent
+Ets = Adds
+Evre = Ever
+Evrityn = Everything
+F:
+Faamus = Famous
+Fangks = Thanks
+Fasst = Fast
+Faund = Found
+Feult = Fault (My fault)
+Fitsere = Feature
+Foggut = Forgot
+Fooll = Full
+Formukat = Formulate
+Fous = Foes
+Fry = Free
+Fud = Food
+Fudcritor = Farm
+Fur = For
+Furevre = Forever
+Fyle = File
+G:
+Gass = Guess
+Gat = Get, Got
+Geme = Game
+Gou = Go
+Grannar = Grammar
+Gud = Good
+Guud = God
+H:
+Haf = Have 
+Halp = Help
+Hare = Here
+Heil = Hell
+Hilu = Hello
+Hoff = Have
+Hov = Have
+Hu = Who
+Hud = Had
+Hulf = Help
+Hun = Him
+Huv = Have
+Huv = How
+I:
+Ice = I see
+Id = It
+Iff = If
+Iibil = Evil
+Inblemmat = Implement
+Inetjated = Iniciated
+Inn = In 
+Inntu = Into
+Interestun = Interesting
+Itt = Is
+J:
+Juist = Just
+K:
+Kiib = Keep
+Konfjusin = Confusing
+KS = X
+ksD = XD
+Kul = Kill
+Kvastun = Question
+L:
+Laborwk = work, Labour
+Lagguage = Language
+Layin = Lieing
+Leik = Like
+Lif = Live
+Lirn = Learn
+Lit = Let
+Liyst = List
+Logkt = Laugh
+Luke = look
+M:
+Mai = My
+Meik = Make
+Miin = Mean 
+Min = My
+Misctsur = Mixture (to Mix)
+Mitaxe = Mistake(s)
+Mjusicc = Music
+Moans = Means
+Moof = Move
+Moost = Most
+Mubil = Mobile
+Muletepliyr = Multiplayer
+Muud = Mod (Game modifications)
+My = Might
+N:
+Nais = Nice
+Nait = Need
+Nejbii = Maybe
+Nider = Neither
+Nigk = Night
+Nii = No
+Niid = Need
+Nootifikatjens = Notifications
+Nootlaborwk = Network
+Ny 1= N°1
+Ny = New
+O:
+O = Oh (expresion)
+Oder = Other
+Ol = All
+Oline = Online
+Onn = On
+Oof = Of
+Opn = Open
+Opn-surse = Open-source
+Otumattiklly = Automatically
+P:
+Pearmxjen = Permission
+Pliyr = Player
+Pruff = Proof
+Q:
+R:
+R = Air
+Raly = Really
+Re = Are
+Reigt = Right (from Correct)
+Reit = Right
+Replikat = Replicate
+Riqwaired = Required
+Riqweests = Requests
+Riqwest = Request
+Risourch = Research
+Riymplemetnatjen = Reimplementation
+S:
+Sait = Said
+Samme = Same
+Santd = Stand
+Sdandarrdise = Standarize
+Seent = Sent
+Sfing = Swing
+Simbel = Symbol
+Slawork = Worker
+Slipp = Sleep
+Smarf = Smart (not like you)
+Smol = Small
+Sowy = Sorry
+Sould = Should
+Stoopet = Stupid (leik yu)
+Su = So
+Sumron = Someone
+Surse = Source
+T:
+Taiess = Days
+Takk = Talk
+Tamoruv = Tomorrow
+Tat = Did
+Teh = The
+Texnologeese = Technologies
+Teycen = Taken
+Tgat = That
+Tiest = Test
+Tinks = Things
+Tiss = This
+Torn = Turn
+Tronshlake = Translate
+Tu = To
+Tudu = Todo
+Tuons = Turns (to convert)
+Tuu = Too
+Tuutroriel = Tutorial
+Tyme = Time
+U:
+Uf = Off
+Uftan = Often
+uncOv = UnCiv (capitalization freestyle)
+Unersdant = Understand
+Upinejens = Unhappiness
+Uuniyt = Unit
+Uus = Us
+Uuser = User
+Uwerlouk = Overlook
+Uz(e) = Use
+Uzar = User
+Uzet = Used
+V:
+Vare = Where
+Veru = Very
+Vewin = Begin
+Vil = Will
+Von = One
+W:
+Wass = What
+Weit = Wait
+Wif = With
+Wii = We
+Wodd = Word
+Wuntr = Want
+Wuntr = Want
+Wuntr = Wonder (of asking)
+Wush = Wish
+Wuss = Was
+Wut = What
+Wuwld = World
+Wyrt = Weird
+X:
+Y: 
+Yeethab = GitHub
+Yih = Yeah
+Yu = You
+Yo = You (all)
+Yuim = Join
+Yumurrow = Tomorrow
+Yur = Your
+Yore = Your (all)
+Z:
