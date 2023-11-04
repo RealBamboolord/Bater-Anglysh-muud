@@ -1,4 +1,5 @@
 English to Anglysh
+A = Ae
 About = Avaut
 Access = Axes
 Actually = Actauly
@@ -11,8 +12,8 @@ All = Ol
 Allow = Elluw
 Always = Alwes
 Amazing = Amensin
-An = Am
-And = A
+Am = An
+An = Aen
 And = Ann
 Anyone = Animon
 API = API
