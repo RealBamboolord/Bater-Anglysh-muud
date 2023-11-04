@@ -130,6 +130,7 @@ Have = Huv
 Have = Hoff
 Have = Huff
 Have = Haff
+Have = Hove
 He = Hu
 Hell = Heil
 Hello = Hilu
