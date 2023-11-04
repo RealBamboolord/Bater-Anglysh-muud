@@ -138,6 +138,7 @@ Him = Hun
 How = Huv
 Humble = Jumvle
 I = Ai
+I see = Ice
 Idea = Eidd
 If = Iff
 iirc = iark
