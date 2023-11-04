@@ -184,6 +184,7 @@ Mixture = Misctsur
 Mobile = Mubil
 Mod = Muud
 Morning = Murnin
+Moron = Murow
 Most = Moost
 Move = Moof
 Multiplayer = Muletepliyr
