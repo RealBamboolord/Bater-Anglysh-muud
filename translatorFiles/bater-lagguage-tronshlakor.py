@@ -23,14 +23,16 @@ while tra == True:
                 print ("Bembulott's dialect = 'b'")
                 print ("Gnadaf's dialect = 'c'")
                 d = ""
-        if d == "0":
-            di = 0
-        if d == "a":
-            di = 1
-        if d == "b":
-            di = 2
-        if d == "c":
-            di = 3
+            if d == "0":
+                di = 0
+            if d == "a":
+                di = 1
+            if d == "b":
+                di = 2
+            if d == "c":
+                di = 3
+            else:
+                di = ""
         print ("Now type in the text to translate")
         txt = input (">>> ")+ " "
         print ("")
@@ -51,7 +53,8 @@ while tra == True:
                 result = news[word:(word+find)]
                 for dia in range(0,di):
                     dial = result.find("; ")
-                    result = result[dial+2:]
+                    if dial != -1:
+                        result = result[dial+2:]
                 diale = result.find("; ")
                 if diale != -1:
                     result = result[:diale]
