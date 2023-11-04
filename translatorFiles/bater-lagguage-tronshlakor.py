@@ -25,11 +25,11 @@ while tra == True:
                 d = ""
             if d == "0":
                 di = 0
-            if d == "a":
+            elif d == "a":
                 di = 1
-            if d == "b":
+            elif d == "b":
                 di = 2
-            if d == "c":
+            elif d == "c":
                 di = 3
             else:
                 di = ""
