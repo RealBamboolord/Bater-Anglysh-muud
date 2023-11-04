@@ -5,7 +5,6 @@ Access = Axes
 Actually = Actauly
 Adds = Ets
 Agree = Agrii
-ahjs = ASj kl kl
 Aight = Ayt
 Air = R
 All = Ol
