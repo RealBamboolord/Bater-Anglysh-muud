@@ -1,3 +1,4 @@
+English to Anglysh
 About = Avaut
 Access = Axes
 Actually = Actauly
