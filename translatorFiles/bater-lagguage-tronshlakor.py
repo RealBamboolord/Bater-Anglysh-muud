@@ -58,6 +58,11 @@ while tra == True:
                 diale = result.find("; ")
                 if diale != -1:
                     result = result[:diale]
+                if result == "- " or result == "-":
+                    if word - len(wodds) != -1:
+                        result = news[word:(word+find)]
+                        diale = result.find("; ")
+                        result = result[:diale]
             else:
                 result = "["+wodd+"]"
             newresult = newresult + result + " "
